@@ -21,7 +21,7 @@ There are 3 main folders in this repo:
         
     3. pandas_dataanalysis_1.ipynb and pandas_dataanalysis_2.ipynb are jupyter notebooks that contain scripts used for data analysis using python packages like pandas and seaborn. 
    
-  3) R folder
+3) R folder:
    This folder contains scripts written in R programming language. 
    Breastcancer_detectionApp.R
    This script is used to create a shiny application on R that is used for the detection of breast cancer tissues using ML algorithms. 
