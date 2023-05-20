@@ -20,6 +20,7 @@ There are 3 main folders in this repo:
        This script is used for the data analysis of ECG data and capturing features related to arrhythmia.
         
     3. pandas_dataanalysis_1.ipynb and pandas_dataanalysis_2.ipynb are jupyter notebooks that contain scripts used for data analysis using python packages like pandas and seaborn. 
+    4. Q1, Q2, Q3 are data and text manipulation assignments done for a data science class.
    
 3) R folder:
    This folder contains scripts written in R programming language. 
